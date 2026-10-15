@@ -41,4 +41,6 @@ A Discord bot inspired by *MiSide*.
 - 💜 *Cyberpunk: Edgerunners* is my favorite anime
 - ✨ I build whatever comes to mind
 - 🔎 Hobbies: Anime, working out, and building things
+- 👨‍💻 **Other languages:** C, C++, GDScript, HTML & CSS
+- 👾 **Game development:** I've also experimented with **Unity** and **Godot**.
   
