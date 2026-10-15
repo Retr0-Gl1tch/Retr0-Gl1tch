@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 I'm V</h1>
 
 <p align="center">
-  <img src="./assets/intro.gif" alt="Animated GIF" width="400">
+  <img src="./assets/intro.gif" alt="Animated GIF" width="700">
 </p>
 
 ## 🧠 About Me
