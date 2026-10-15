@@ -1,5 +1,5 @@
 
-## Hey 👋 I'm V
+<h1 align="center">Hey 👋 I'm V</h1>
 
 ## 🧠 About Me
 
@@ -16,11 +16,15 @@ I mostly work on backend projects, especially Discord bots and databases.
 
 **Languages & Frameworks**
 
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,py)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,py" />
+</p>
 
 **Tools & Platforms**
 
-![Tools](https://skillicons.dev/icons?i=git,github,windows,apple,discord)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,windows,apple,discord" />
+</p>
 
 ## 🚀 Featured Project
 
