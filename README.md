@@ -1,6 +1,10 @@
 
 <h1 align="center">Hey 👋 I'm V</h1>
 
+<p align="center">
+  <img src="./assets/intro.gif" alt="Animated GIF" width="400">
+</p>
+
 ## 🧠 About Me
 
 I'm V, a software developer based in Italy. 
